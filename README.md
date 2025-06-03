@@ -1,5 +1,8 @@
 # Log Archive Tool
 
+> [!WARNING]
+> The development and experimentation of this tool has moved to the [lab repository](https://github.com/lethanix/lab). 
+
 The script will accept the log directory as an argument, compress the logs, and store them in a new directory.
 
 ## Getting Started
